@@ -1,6 +1,6 @@
-# 🎯 GitHub Repository Setup
+# 🎯 Project local Setup
 
-## For Your GitHub Repository
+## For Setup the work
 
 ### Repository Name
 ```
